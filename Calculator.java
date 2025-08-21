@@ -1,6 +1,6 @@
 public class Calculator {
     public int add(int a, int b) { 
-        return a + b + 1; //changed
+        return a + b + 10; //changed
     }
     public int subtract(int a, int b) { 
         return a - b; 
